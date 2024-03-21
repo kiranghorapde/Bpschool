@@ -29,16 +29,16 @@ export default function Slider() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img className=" " src="public/images/slide-1 (1) firstimg.webp" />
+          <img className=" " src="/images/slide-1 (1) firstimg.webp" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="public/images/slide-1.webp" />
+          <img src="/images/slide-1.webp" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="public/images/slide-2.webp " />
+          <img src="/images/slide-2.webp " />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="public/images/slide-3.webp " />
+          <img src="/images/slide-3.webp " />
         </SwiperSlide>
       </Swiper>
     </>
