@@ -15,4 +15,5 @@ const INfrastructure = () => {
   );
 };
 
-export default INfrastructure;
+export default INfrastructure
+;
